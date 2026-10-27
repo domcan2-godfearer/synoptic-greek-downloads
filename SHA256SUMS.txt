@@ -1,0 +1,3 @@
+690d2b7513df8a16af5e97b3f001d8464160c1f7e14e9e1b0a7a7c0c3a56b12c  Synoptic-Greek-Interlinear_1.1.12_amd64.deb
+7bc4e255c58a0e2ff49583cdf028f6965ad17d641de214819be3c7a347017501  Synoptic-Greek-Interlinear_1.1.12_arm64.apk
+b9e5fbbf010cdb96af096f7d323e4664c630838f37a911791359b5e847479a59  Synoptic-Greek-Interlinear_1.1.12_x64-setup.exe
